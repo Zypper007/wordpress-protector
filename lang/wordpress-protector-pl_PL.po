@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress-protector\n"
+"POT-Creation-Date: 2021-07-30 14:19+0200\n"
+"PO-Revision-Date: 2021-07-30 14:50+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: protector.php:93
+msgid "Login failed"
+msgstr "Nieudane logowanie"
+
+#: protector.php:135
+msgid "Recaptcha verification failed"
+msgstr "Nieudana weryfikacja reCAPTCHA"
+
+#: protector.php:204
+msgid "Login has been blocked on "
+msgstr "Logowanie zostało zablokowane na "
+
+#: protector.php:213
+msgid "day"
+msgstr "dzień"
+
+#: protector.php:214
+msgid "days"
+msgstr "dni"
+
+#: protector.php:236
+msgid "You can try to login"
+msgstr "Możesz spróbować się zalogować"
+
+#: protector.php:311
+msgid "Left"
+msgstr "Zostało"
+
+#: protector.php:315
+msgid "attempt"
+msgstr "próba"
+
+#: protector.php:317
+msgid "attempts"
+msgstr "próby"
+
+#: protector.php:375
+msgid "Too many login attempts"
+msgstr "Zbyt wiele prób logowań"
+
+#: settings-page.php:78
+msgid "Changes saved"
+msgstr "Zapisano ustawienia"
+
+#: settings-page.php:104
+msgid "Settings for"
+msgstr "Ustawienia dla"
+
+#: settings-page.php:112
+msgid "Hide login errors"
+msgstr "Ukryj błędy logowania"
+
+#: settings-page.php:113
+msgid "Hide WordPress version"
+msgstr "Ukryj wersję Wordpress"
+
+#: settings-page.php:114
+msgid "Login lockdown"
+msgstr "Blokada logowania"
+
+#: settings-page.php:122
+msgid "Save changes"
+msgstr "Zapisz ustawienia"
+
+#: settings-page.php:138 settings-page.php:170 settings-page.php:247
+msgid "Enable?"
+msgstr "Włączone?"
+
+#: settings-page.php:145 settings-page.php:177
+msgid "Site key (public)"
+msgstr "Site key (klucz publiczny)"
+
+#: settings-page.php:153
+msgid "Private key (private)"
+msgstr "Prywatny klucz"
+
+#: settings-page.php:185
+msgid "API key (private)"
+msgstr "API key (klucz prywatny)"
+
+#: settings-page.php:192
+msgid "Project's name"
+msgstr "Nazwa projektu"
+
+#: settings-page.php:201
+msgid "Score"
+msgstr "Punkty"
+
+#: settings-page.php:206
+msgid "the weakest"
+msgstr "najsłabsze"
+
+#: settings-page.php:233
+msgid "the strongest"
+msgstr "najsilniejsze"
+
+#: settings-page.php:254
+msgid "Failed login count"
+msgstr "Liczba prób logowań"
+
+#: settings-page.php:261
+msgid "Lockdown time in minutes"
+msgstr "Czas blokady w minutach"
+
+#: settings-page.php:277
+msgid "Hide version of WordPress instance"
+msgstr "Ukryj wersję WordPress'a"
+
+#: settings-page.php:287
+msgid "Hide all login errors"
+msgstr "Ukryj wszystkie błędy logowań"
